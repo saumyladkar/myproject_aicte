@@ -20,4 +20,6 @@ This project implements a simple **steganography** technique to hide a secret me
 
 ## Installation
 
-1. Clone the repo
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/saumyladkar/secure-data-hiding-steganography.git
